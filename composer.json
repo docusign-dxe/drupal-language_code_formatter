@@ -1,0 +1,7 @@
+{
+    "name": "drupal/language_code_formatter",
+    "description": "Language Code Formatter",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "require": {}
+}
